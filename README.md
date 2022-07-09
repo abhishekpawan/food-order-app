@@ -4,7 +4,7 @@
 <div align="center">
     <img src="" alt="" width="75%">
 
-  <h3 align="center">Title of the project</h3>
+  <h3 align="center">Food Order App</h3>
 
   <p align="center">
     <!-- <a href="https://abhishekpawan.me/BookListApp/">View Demo</a> |  -->
